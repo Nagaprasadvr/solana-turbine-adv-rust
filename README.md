@@ -2,7 +2,7 @@
 
 ## Few Concepts covered during Advance Rust Cohort
 
-## 1.How does process_instruction (entrypoint of a solana program logic works) covered topics :
+### 1.How does process_instruction (entrypoint of a solana program logic works) covered topics :
 ##    a. Transaction Context
 ##    b. Invoke Context
 ##    c. processing accounts , ix_data and checking for signatures, loading program to eBPF and vm
