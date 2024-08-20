@@ -1,11 +1,10 @@
 # solana-turbine-adv-rust
 
 ## Few Concepts covered during Advance Rust Cohort
-
-### 1.How does process_instruction (entrypoint of a solana program logic works) covered topics :
-##    a. Transaction Context
-##    b. Invoke Context
-##    c. processing accounts , ix_data and checking for signatures, loading program to eBPF and vm
+1.How does process_instruction (entrypoint of a solana program logic works) covered topics :
+  a. Transaction Context
+  b. Invoke Context
+  c. processing accounts , ix_data and checking for signatures, loading program to eBPF and vm
 
 ## 2.Replay Stage - A stage involving validators receiving bloks (including forks) in shars and how these shards are processed ot txs and loaded to bank for processing these txs
 
